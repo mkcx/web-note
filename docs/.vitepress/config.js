@@ -2,7 +2,7 @@ export default {
   title: 'web文档',
   titleTemplate: 'Vite & Vue powered static site generator',
   description: 'Just playing around.',
-  base: '/web-note',
+  base: '/web-note/',
   themeConfig: {
     nav: [{ text: '指南', link: '/guide/index.md', activeMatch: '/config/' }],
     sidebar: [
