@@ -1,6 +1,6 @@
 ## 链表  
 链表结构如下图
-![链表结构图](../pubilc/images/05-linklist.PNG)  
+![链表结构图](/pubilc/images/05-linklist.png)  
 
 ## 实现链表结构  
 - append(element)。向链表尾部添加新项。  
