@@ -13,6 +13,17 @@ export default {
           { text: '初识http', link: '/http/base' },
           { text: 'http常用状态码', link: '/http/statusCode.md' }
         ]
+      },
+      {
+        text: '数据结构与算法',
+        collapsible: true,
+        items: [
+          { text: '什么是数据结构', link: '/DSAA/01-dataStructure' },
+          { text: '什么是算法', link: '/DSAA/02-algorithm' },
+          { text: '栈结构', link: '/DSAA/03-stack' },
+          { text: '队列结构', link: '/DSAA/04-queue' },
+          { text: '链表结构', link: '/DSAA/05-linkList' }
+        ]
       }
     ]
   }
