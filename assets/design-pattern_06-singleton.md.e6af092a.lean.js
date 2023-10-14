@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.46869786.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"design-pattern/06-singleton.md"}'),p={name:"design-pattern/06-singleton.md"},o=l("",10),e=[o];function c(t,r,D,F,y,C){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{i as __pageData,b as default};
