@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as l}from"./app.46869786.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"design-pattern/15-composition.md"}'),p={name:"design-pattern/15-composition.md"},o=l("",6),e=[o];function r(c,t,F,D,y,A){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{i as __pageData,b as default};

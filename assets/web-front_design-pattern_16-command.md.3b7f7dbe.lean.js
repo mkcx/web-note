@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.ed921696.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web-front/design-pattern/16-command.md"}'),p={name:"web-front/design-pattern/16-command.md"},o=l("",8),e=[o];function c(r,t,F,D,y,A){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{C as __pageData,b as default};
