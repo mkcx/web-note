@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as l}from"./app.663d2a52.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web-front/design-pattern/03-factory.md"}'),p={name:"web-front/design-pattern/03-factory.md"},o=l("",6),e=[o];function r(t,c,F,D,y,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};
