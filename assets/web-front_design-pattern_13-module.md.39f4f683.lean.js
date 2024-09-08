@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.3ebafb34.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web-front/design-pattern/13-module.md"}'),p={name:"web-front/design-pattern/13-module.md"},o=l("",7),e=[o];function t(c,r,F,y,D,i){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};

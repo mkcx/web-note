@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.3ebafb34.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web-front/design-pattern/18-iterator.md"}'),p={name:"web-front/design-pattern/18-iterator.md"},o=l("",4),e=[o];function r(t,c,y,F,D,i){return n(),a("div",null,e)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};
